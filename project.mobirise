@@ -797,7 +797,8 @@
               }
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             }
           },
           "_name": "social-buttons1",
